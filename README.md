@@ -5,9 +5,9 @@
 - 📫 How to reach me, I am not that hard to reach
 
 # SOCIALS
-> FACEBOOK:https://www.facebook.com/rafhael.hailar.9/ <br/>
-> GITHUB:# </br>
-> LINKEDIN:https://www.linkedin.com/in/rafhael-hailar-94849b296/ <br/>
+> FACEBOOK: https://www.facebook.com/rafhael.hailar.9/ <br/>
+> GITHUB: [#](https://https://github.com/RafhaelHailar/) </br>
+> LINKEDIN: https://www.linkedin.com/in/rafhael-hailar-94849b296/ <br/>
 > ONLYFANS: [DarkIsAboveOnlyFans](https://www.youtube.com/watch?v=fC7oUOUEEi4)
 
 <!---
