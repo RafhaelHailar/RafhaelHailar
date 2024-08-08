@@ -2,9 +2,11 @@
 
 ###
 
-<div style="text-align:center">
+<div style="display: flex; justify-content: center">
   <img align="center" src="https://streak-stats.demolab.com?user=RafhaelHailar&theme=elegant" />
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafhaelHailar&layout=compact" />
 
 ###
 
