@@ -3,7 +3,7 @@
 ###
 
 <div style="display: flex; justify-content: center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=RafhaelHailar&theme=elegant)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=RafhaelHailar&theme=elegant" />
 </div>
 
 ###
