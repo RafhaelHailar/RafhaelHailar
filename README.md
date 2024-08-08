@@ -5,8 +5,10 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RafhaelHailar&theme=elegant" />
 </p>
-<img align="left" onerror="() => alert('hey')" width="30%" src="https://github-readmetats.vercel.app/api/top-langs/?username=RafhaelHailar&layout=compact" />
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" />
+<p align="center">
+  <img width="35%" height="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafhaelHailar&layout=compact" />
+  <img width="45%" height="90%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" />
+</p>
 
 ###
 
