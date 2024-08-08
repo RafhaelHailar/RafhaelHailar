@@ -2,11 +2,11 @@
 
 ###
 
-<div style="display: flex; justify-content: center">
-  <img align="center" src="https://streak-stats.demolab.com?user=RafhaelHailar&theme=elegant" />
-</div>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafhaelHailar&layout=compact" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RafhaelHailar&theme=elegant" />
+</p>
+<img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafhaelHailar&layout=compact" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" />
 
 ###
 
