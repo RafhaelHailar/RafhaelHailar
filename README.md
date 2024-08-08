@@ -2,9 +2,7 @@
 
 ###
 
-<div style="display: flex; justify-content: center">
-  <img src="https://streak-stats.demolab.com?user=RafhaelHailar&theme=elegant" />
-</div>
+<img align="center" src="https://streak-stats.demolab.com?user=RafhaelHailar&theme=elegant" />
 
 ###
 
